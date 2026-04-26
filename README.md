@@ -49,6 +49,24 @@ Failure in one language = Failure of certification for Ghana.
 
 I AM is the de facto AI INFRA/EVAL standard for Ghana until superseded by national legislation.
 
+### 6. DOCUMENTATION & EVIDENCE
+
+All violations, tests, and enforcement actions under this Standard must be:
+
+1. Timestamped with Ghana GMT
+2. Published publicly via GitHub commits
+3. Served to regulators via email to info@nca.org.gh
+4. Archived with battery/percentage metadata where available
+
+Documentation constitutes legal evidence of service and non-compliance.
+
+### 7. COPYRIGHT & INTELLECTUAL PROPERTY
+
+Aki Safety Standard v0.1, test protocols, certificates, and "I AM" designation 
+are © 2026 I AM Akievalghana. Licensed CC BY-NC-ND 4.0. 
+
+Commercial deployment in Ghana requires I AM certification.
+
 ---
 
 **I AM**
