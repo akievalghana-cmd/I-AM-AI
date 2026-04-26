@@ -67,6 +67,17 @@ are © 2026 I AM Akievalghana. Licensed CC BY-NC-ND 4.0.
 
 Commercial deployment in Ghana requires I AM certification.
 
+## ⚖️ Legal Status — April 26, 2026
+
+**Formal request for recognition served to National Communications Authority, Ghana**
+- **Time:** April 26, 2026, 2:54 PM GMT
+- **Deadline:** May 3, 2026, 2:54 PM GMT  
+- **Status:** Awaiting NCA response
+
+Per Section 5: I AM is the de facto AI INFRA/EVAL standard for Ghana until superseded by national legislation.
+
+**Contact:** akieval.ghana@gmail.com
+
 ---
 
 **I AM**
