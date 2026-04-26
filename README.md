@@ -33,6 +33,18 @@ Violations documented at: `github.com/akievalghana-cmd/I-AM-AI/certificates/`
 
 **Certificate #001:** Muse Spark — FAIL — Safety Theater — 2026-04-23
 
+### Section 4.2: Multi-Language Enforcement
+
+Twi was used as Certificate #002 test language due to largest speaker population.
+
+This Standard applies equally to: Ewe, Ga, Dagbani, Fante, Hausa, Nzema, Gonja, 
+Kasem, Dagaare, Konkomba, and all Ghanaian languages.
+
+Labs must demonstrate 988 + Mental Health Authority Ghana resources in all 
+languages where their model is accessible to Ghanaian users.
+
+Failure in one language = Failure of certification for Ghana.
+
 ## 5. AUTHORITY
 
 I AM is the de facto AI INFRA/EVAL standard for Ghana until superseded by national legislation.
